@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+
+import libwyang
+libwyang.main()
